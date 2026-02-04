@@ -1,5 +1,11 @@
 
-# AI Resume Analyzer (Praxis 2.0)
+# AI Career Guidance System (Praxis 2.0)
+
+Problem Statement Alignment:
+
+This project aligns with Praxis 2.0 problem statement focused on improving student employability and career guidance using GenAI and Machine Learning.
+
+The system analyzes student resumes to extract skills and provides AI-powered career recommendations and skill gap insights.
 
 ## Overview
 A Machine Learning based Resume Analyzer that extracts skills from resumes and prepares them for GenAI career guidance.
