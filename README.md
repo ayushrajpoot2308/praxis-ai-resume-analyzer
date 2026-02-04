@@ -23,5 +23,5 @@ No resume data stored.
 Useful for colleges, HR, placement cells.
 
 ## Run
-pip install -r requirements.txt.
+pip install -r requirements.txt
 python app.py
