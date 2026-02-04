@@ -1,0 +1,18 @@
+
+<html>
+<body>
+<h2>AI Resume Analyzer (ML + GenAI Ready)</h2>
+
+<form method="POST" enctype="multipart/form-data">
+<input type="file" name="resume" required>
+<button type="submit">Upload Resume</button>
+</form>
+
+<h3>Extracted Resume Text:</h3>
+<pre>{{resume}}</pre>
+
+<h3>Top Skills (ML Extracted):</h3>
+<p>{{skills}}</p>
+
+</body>
+</html>
